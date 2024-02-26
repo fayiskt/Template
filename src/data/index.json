@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "React.js Enthusiast | Front-end Developer crafting dynamic and responsive web experiences"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Node.js & Express.js Enthusiast | Back-end Developer specializing in crafting robust and scalable server-side solutions"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Problem Solving",
+      "description": "Passionate Problem Solver | Dedicated to unraveling coding challenges and architecting innovative solutions"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Other Skills",
+      "description": "Versatile Skills Set | Proficient in Git, GitHub, MS Office tools, and experienced in working with RESTful APIs"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/img--1.png",
+      "title": "Book List",
+      "description": "A comprehensive book list management project featuring a React.js frontend, Node.js backend with Express.js, and MongoDB database integration",
+      "link": "View In Github",
+      "tolink": "https://github.com"
+    },
+    {
+      "id": "2",
+      "src": "./img/img--2.png",
+      "title": "Keeper App",
+      "description": "A note-storing project using React.js for a user-friendly solution for efficient note organization",
+      "link": "View In Github",
+      "tolink": "https://github.com"
+    },
+    {
+      "id": "3",
+      "src": "./img/img--3.png",
+      "title": "Daily Journal",
+      "description": "A robust blog application with Node.js and EJS for a dynamic platform supporting content creation, publication, and user engagement in the Node.js ecosystem",
+      "link": "View In Github",
+      "tolink": "https://github.com"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
